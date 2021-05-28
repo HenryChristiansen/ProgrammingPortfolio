@@ -1,6 +1,7 @@
 # Programming II Portfolio
 # Henry Christiansen
 # Contact Email: <henrychristiansen@gmail.com>
+### Note: To download anything, click the link and click the 'download' button that appears on the left hand side of the screen. If you have any problems, click the email link above and shoot me an email.
 
 # Group Project:
 1. TDGAME
