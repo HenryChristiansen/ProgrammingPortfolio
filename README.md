@@ -1,2 +1,2 @@
-# ProgrammingPortfolio
-A Portfolio of some of my work from Computer Science 2 class
+# My Programming Portfolio
+A Portfolio of some of my work from Computer Science II class
