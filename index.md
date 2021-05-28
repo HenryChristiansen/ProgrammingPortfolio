@@ -10,7 +10,7 @@
    * [TDGame_UML_DOC](https://github.com/HenryChristiansen/ProgrammingPortfolio/blob/main/ProjectData/GroupProject/TDGame_UML_DOC.png)
    * [GUIMockup](https://github.com/HenryChristiansen/ProgrammingPortfolio/blob/main/ProjectData/GroupProject/GUIMockup.png)
 4. Photo of Game: 
-   ![GamePic](https://github.com/HenryChristiansen/ProgrammingPortfolio/blob/main/ProjectData/GroupProject/GamePic.PNG)
+   [Image](https://github.com/HenryChristiansen/ProgrammingPortfolio/ProjectData/GroupProject/GamePic.PNG)
 5. Link to download Source Code and Executable (Source code and execuatable in zip folder): 
    * Windows 64-Bit: [Windows64](https://github.com/HenryChristiansen/ProgrammingPortfolio/tree/main/ProjectData/GroupProject/Windows64.zip)
    * Windows 32-Bit: [Windows32](https://github.com/HenryChristiansen/ProgrammingPortfolio/tree/main/ProjectData/GroupProject/Windows32.zip)
