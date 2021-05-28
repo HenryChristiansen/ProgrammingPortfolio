@@ -18,9 +18,9 @@
 # Individual Project Number 1:
 1. Projectile Motion Calculator
 2. A scientific calculator that can calculate information about an object in projectile motion given initial values. It can also graph the motion of this projectile and give    your information about this projectile at a given time.
-3. Mockups/Documentation: [Documentation](https://github.com/HenryChristiansen/ProgrammingPortfolio/tree/main/ProjectData/IndividualOne/Criterion_B_Design.pdf)
+3. Mockups/Documentation: [Documentation](https://github.com/HenryChristiansen/ProgrammingPortfolio/blob/main/ProjectsData/IndividualOne/Criterion_B_Design.pdf)
 4. Photo of Application: [Image](https://github.com/HenryChristiansen/ProgrammingPortfolio/blob/main/ProjectsData/IndividualOne/ImageTitle.png)
-5. Source Code: [Code](https://github.com/HenryChristiansen/ProgrammingPortfolio/blob/main/ProjectData/IndividualOne/SourceCode.zip)
+5. Source Code: [Code](https://github.com/HenryChristiansen/ProgrammingPortfolio/blob/main/ProjectsData/IndividualOne/SourceCode.zip)
 6. Exported App: [ProjectileMotionCalculator](https://github.com/HenryChristiansen/ProgrammingPortfolio/blob/main/ProjectsData/IndividualOne/ProjectileMotionCalculator.jar)
 
 # Individual Project Number 2:
