@@ -17,11 +17,10 @@
 # Individual Project Number 1 (2022, Individual Project):
 1. Tic-Tac-Toe
 2. This Tic-Tac-Toe application is a fun realization of the classic game of Tic-Tac-Toe. There are three modes. The first mode is Two Player, battle it out with a friend. The second mode is Single Player, challenge the computer to a game. The thrid mode is a fun new twist to the game: Two Player Random Turn, play with a friend, only this time the computer will randomly select who's turn it is.
-3. Mockups/Documentation:
-   * 
-4. Photo of Application: 
-5. Soucre Code: 
-6. Exported App: 
+3. Mockups/Documentation: [GUIMockup](https://github.com/HenryChristiansen/ProgrammingPortfolio/blob/main/ProjectsData/2022IndividualProject/GUIMockup.png)
+4. Photo of Application: [Image](https://github.com/HenryChristiansen/ProgrammingPortfolio/blob/main/ProjectsData/2022IndividualProject/TicTacToeImage.png)
+5. Soucre Code: [Code](https://github.com/HenryChristiansen/ProgrammingPortfolio/blob/main/ProjectsData/2022IndividualProject/src.zip)
+6. Exported App: [Tic-Tac-Toe](https://github.com/HenryChristiansen/ProgrammingPortfolio/blob/main/ProjectsData/2022IndividualProject/TicTacToe.jar)
 
 # Individual Project Number 2 (2021, IA for IB as well):
 1. Projectile Motion Calculator
