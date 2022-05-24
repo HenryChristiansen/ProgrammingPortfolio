@@ -8,6 +8,13 @@
 4. Computer Programming, Advanced (840)
 ### Note: To download anything, click the link and click the 'download' button that appears on the right-hand side of the screen. If you have any problems, click the email link above and shoot me an email. Also, to view images, click the link as well. All images are not being shown for spatial/orginizational reasons so click the link to view the image if you want to. 
 
+# Group Project (2022):
+1. Desert of Doom
+2. Desert of Doom is a clone of Thin Ice by Club Penguin. Controls are WASD/Arrow Keys to move.
+3. Mockups: To Do
+4. Photo of Game: To Do
+5. Link to download Soucre Code and Executable (Souce code and executable in zip folder): To Do
+
 # Group Project (2021):
 1. TDGAME
 2. TDGAME is a survival tower defense game. You are a movable character (W,A,S,D) and use (LMB) to shoot enemies that are attacking you. You start with 100 HP which you cannot regen, but you can buy a player shield in the build menu to protect your precious health. You use (E) or (RMB) to open the options to build turrets, which range from many options including machine guns, teslas, bombs, lasers, traps, etc. As time goes on, the levels increase in difficulty and there is a boss every 5 levels. After each level there is a grace period which you have time to buy and prepare. If you die you can revive for twice the cost every time you die, starting at $1000. If you are dead, the enemies will attack your turrets until they are destroyed, at which point you have lost.
